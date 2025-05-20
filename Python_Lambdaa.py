@@ -10,3 +10,6 @@ print((lambda x,y:x*y)(5,5))
 
 j =lambda x:x+1 
 print(j(8))
+
+
+#this program added in this new Git
