@@ -8,5 +8,5 @@ except Exception as Ef:
 else:
     print(f"The result is {result}")
 finally:
-    print("Execution ")
+    print("Execution ") #
 
